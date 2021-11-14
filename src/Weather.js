@@ -89,8 +89,9 @@ export default function Weather() {
         <footer>
           Coded by Kathryn Delavere | Hosted on Netlify | View{" "}
           <a
-            href="https://github.com/kdel01/vanilla-weatherapp"
+            href="https://github.com/kdel01/weather-react"
             target="_blank"
+            rel="noreferrer"
           >
             Source Code
           </a>{" "}
